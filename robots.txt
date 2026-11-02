@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fargo.lemurianstudios.com/sitemap.xml
